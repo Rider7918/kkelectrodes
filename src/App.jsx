@@ -1,4 +1,4 @@
-import Navbar from "./components/navbar/navbar";
+import Navbar from "./components/navbar/Navbar";
 import Hero from "./components/hero/Hero";
 import OverviewCounter from "./components/overview-counter/OverviewCounter";
 import BannerDetails from "./components/bannerDetails/BannerDetails";
