@@ -3,7 +3,7 @@ import Hero from "./components/hero/Hero";
 import OverviewCounter from "./components/overview-counter/OverviewCounter";
 import BannerDetails from "./components/bannerDetails/BannerDetails";
 import SimpleBanner from "./components/simpleBanner/SimpleBanner";
-import Blogs from "./components/blogs/blogs";
+import Blogs from "./components/blogs/Blogs";
 import Footer from "./components/footer/Footer";
 import { useEffect } from "react";
 import AOS  from "aos";
